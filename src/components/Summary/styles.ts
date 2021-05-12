@@ -4,7 +4,7 @@ export const Container = styled.main`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
-  margin-top: -10rem;
+  margin-top: -6.5rem;
 
   div {
     background: var(--shape);
@@ -23,7 +23,7 @@ export const Container = styled.main`
       margin-top: 1rem;
       font-size: 2rem;
       font-weight: 500;
-      line-height: 3rem;
+      line-height: 2rem;
     }
 
     &.highlight-background {
