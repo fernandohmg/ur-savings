@@ -28,7 +28,6 @@ export const Container = styled.div`
       }
 
       &:last-child {
-        color: var(--text-title);
         border-top-right-radius: 0.25rem;
         border-bottom-right-radius: 0.25rem;
       }
